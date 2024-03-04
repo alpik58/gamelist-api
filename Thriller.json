@@ -1,0 +1,22 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f1/TombRaider2013.jpg",
+    "title": " Tomb Rider 2013  ",
+    "price": " ₹250"
+  },
+  {
+    "image": "https://i.gadgets360cdn.com/products/large/EGS-RiseoftheTombRaider20YearCelebration-CrystalDynamics-S2-1200x1600-1000x1333-1645082376.png",
+    "title": " Rise of the Tomb Raider ",
+    "price": " ₹500"
+  },
+  {
+    "image": "https://image.api.playstation.com/cdn/EP0082/CUSA10872_00/b9BPfFTux1rbQYxxIeJdMNgaVFhDeFG9.png",
+    "title": " Shadow of the Tomb Raider  ",
+    "price": " ₹1000"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81l-fT2bzHL._AC_UF1000,1000_QL80_.jpg",
+    "title": "  The Art of Wolfenstein II: The New Colos  ",
+    "price": " ₹1500"
+  }
+]
